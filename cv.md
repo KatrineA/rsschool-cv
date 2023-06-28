@@ -1,12 +1,12 @@
 # Ekaterina Lobzova
-![Foto](C:\RS_school\rsschool-cv\DSCF2295.JPG) 
+![Foto](/rsschool-cv/DSCF2295.JPG)
 
 ### Junior Frontend Developer
 
 # Contact Info
 
-**Location** Moscow, Russia
-**Phone** +79175286633
+**Location** Moscow, Russia  <br/>
+**Phone** +79175286633  <br/>
 **e-mail** k.a.guskova@gmail.com
 
 # Skill
