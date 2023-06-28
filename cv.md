@@ -1,5 +1,5 @@
 # Ekaterina Lobzova
-![Foto](https://github.com/KatrineA/rsschool-cv/blob/e59ca5ac09009516a834d553feb45c08b28c0107/DSCF2295.JPG)
+![Foto](DSCF2295.JPG)
 
 ### Junior Frontend Developer
 
