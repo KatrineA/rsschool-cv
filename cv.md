@@ -6,8 +6,8 @@
 # Contact Info
 
 **Location** Moscow, Russia  
-<br/>**Phone** +79175286633  
-<br/>**e-mail** k.a.guskova@gmail.com
+**Phone** +79175286633  
+**e-mail** k.a.guskova@gmail.com
 
 # Skill
 
@@ -21,19 +21,20 @@
 
 
 # Education
-<br/>Bauman Moscow State Technical University
-<br/>Standardization and metrology
-<br/>Moscow    
-<br/>I received the Magister degree with graduated summa cum laude - 4.9 GPA. 
-<br/>   
-<br/>Bauman Moscow State Technical University
-<br/>Standardization and metrology
-<br/>Moscow 
-<br/>I received a bachelor's degree in the field of metrology, standardization, and interchangeability. Graduated summa cum laude - 4.5 GPA.While studying at the university, I actively participated in the university scientific and social activities, received achievements scholarships in educational and scientific activities. I have experience speaking at conferences and seminars, including international.
+Bauman Moscow State Technical University  
+Standardization and metrology  
+Moscow  
+I received the Magister degree with graduated summa cum laude - 4.9 GPA  
+
+Bauman Moscow State Technical University  
+Standardization and metrology  
+Moscow  
+I received a bachelor's degree in the field of metrology, standardization, and interchangeability. Graduated summa cum laude - 4.5 GPA.While studying at the university, I actively participated in the university scientific and social activities, received achievements scholarships in educational and scientific activities. I have experience speaking at conferences and seminars, including international.
 
 # Experience
-1. Federal state unitary enterprise «Russian Research Institute for Metrological Service»
-<br/>Moscow 
+1. Federal state unitary enterprise «Russian Research Institute for Metrological Service»  
+Moscow  
+
 * Software testing 
 * Сoordination of procurement and work with collaborators 
 * Performance of work on research and development work and presentation of the results 
@@ -41,7 +42,9 @@
 * Development and certification of measurement methods 
 * Paperwork
 
-2. AO ORS - System Analyst of COMPUTER RESERVATION SYSTEM
+2. AO ORS - System Analyst of COMPUTER RESERVATION SYSTEM  
+Moscow  
+
 * Analysis information system
 * Design information system
 * Implementation information system
@@ -53,6 +56,6 @@ Databases
 [Certificate](https://coursera.org/share/a6bc853afa8ee08be729c4b47429a385)
 
 # Languages
-<br/>Russian 
-<br/>English - B1
-<br/>German - A1
+Russian  
+English - B1  
+German - A1  
